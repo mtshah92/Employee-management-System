@@ -1,0 +1,5 @@
+# Node & Next
+node_modules
+.env
+.next
+dist
